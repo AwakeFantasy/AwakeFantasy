@@ -1,8 +1,7 @@
-# Hi, I'm AwakeFantasy
+﻿# Hi, I'm AwakeFantasy
 
-北京邮电大学计算机技术硕士在读，关注 AI 全栈开发、大模型应用与数据建模。  
-我喜欢把复杂问题拆成可以运行的产品原型：从需求理解、数据建模、前后端实现，到 AI 能力接入、测试和部署交付。
-
+鍖椾含閭數澶у璁＄畻鏈烘妧鏈澹湪璇伙紝鍏虫敞 AI 鍏ㄦ爤寮€鍙戙€佸ぇ妯″瀷搴旂敤涓庢暟鎹缓妯°€? 
+鎴戝枩娆㈡妸澶嶆潅闂鎷嗘垚鍙互杩愯鐨勪骇鍝佸師鍨嬶細浠庨渶姹傜悊瑙ｃ€佹暟鎹缓妯°€佸墠鍚庣瀹炵幇锛屽埌 AI 鑳藉姏鎺ュ叆銆佹祴璇曞拰閮ㄧ讲浜や粯銆?
 ## About Me
 
 - M.S. candidate in Computer Technology, Beijing University of Posts and Telecommunications
@@ -41,3 +40,6 @@ Git / Vitest / ESLint / Linux / AI Coding tools
 - GitHub: [AwakeFantasy](https://github.com/AwakeFantasy)
 - Blog: [www.awakefantasy.top](https://www.awakefantasy.top/)
 - Old Blog: [blog.csdn.net/AwakeFantasy](https://blog.csdn.net/AwakeFantasy)
+
+<!-- profile-refresh: 2026-05-15 -->
+
